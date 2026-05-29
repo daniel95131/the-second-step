@@ -12,7 +12,7 @@ A small event-sourced backend service for smart parcel locker management.
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-```
+``` 
 
 ### 2. Run the API
 
